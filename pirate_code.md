@@ -40,4 +40,5 @@ X.    Any man deserting the ship in battle or rewriting history on the
 
 Captain      : Paula Martínez García
 Quartermaster: Eva
-First mate   : NAME HERE
+First mate   : Celine
+
